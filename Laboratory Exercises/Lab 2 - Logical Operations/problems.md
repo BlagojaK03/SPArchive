@@ -1,6 +1,6 @@
 ## Problem 1
 A number X is read from standard input. \
-If the number x ? (?100,100) ? [200,300), print 1 (true). Otherwise, print 0 (false). \
+If the number x exists in the range (-100,100) or [200,300), print 1 (true). Otherwise, print 0 (false). \
 The problem needs to be solved with logical operations (no if-else).
 ## Problem 2 
 Write a program where, from keyboard input, an amount of money in a user's transaction account is read. \
