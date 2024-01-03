@@ -9,7 +9,7 @@ If there are no such arrays, print the message `NONE`.
 
 **Personal note regarding this problem:** \
 *In the solution provided, the program treats spaces as new lines, regardless of whether the read method used is `scanf` or `fgets`.
-This is not meant to happen, so I encourage you to find a solution this problem.*
+This is not meant to happen, so I encourage you to find a solution to this problem.*
 ## Problem 3
 Write a program which reads from a file named `text.txt` and determines and prints on standard output:
 - the relative frequency of all lowercase letters
